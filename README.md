@@ -21,8 +21,7 @@ Our idea revolves around safeguarding visitors from natural disasters.
 * Monitoring of hospitals in that area. We will be taking into consideration distance from hospitals, facilities available, victims admitted and monetary expenses.
 * Providing nearest Police station location.
 * Updates on transportation faciity.
-* Facial recognition to hand out relief. Photos of victims to be taken at the centre. Facial recognition will determine if  relief has already been handed out to a particular individual at the centre.
-* The families can search for their relatives by uploading their photos. `(because we will having a track of whom realief has been sent using facial recognition api).`
+* Photos of victims to be taken at the relief centre. Besides determining who has already received the relief, the family of the victims will also be able to search their relatives by uploading their pictures (using azure face recognition api).
 
 CodeFunDo++
 Microsoft Academia Accelerator 2018 - Predict Natural Disasters
