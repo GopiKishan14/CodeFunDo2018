@@ -14,7 +14,7 @@ Our idea revolves around safeguarding visitors from natural disasters.
 **2) During-Disaster working phase:**
 
 * Using chat history we will be predicting `people in need`, So, as to provide local support. (resource sharing)
-* We will be using remote sensing to predict number of people in disater (on this basis, we will contact local police , army etc.)
+* We will be using remote sensing to analyse the number of people in disater (on the basis of which, we will contact local police , army etc.)
 * Since network availabilty is an issue, we will be using FM/AM radio network instead, which are built into all smart-phones and any electronic device, and can be used for 2-way communication even in long-ranges. Survivors can broadcast to a local tower and ping themselves, or/and be relocated to the nearest shelter.
 
 **3) Post-disaster working phase:**
