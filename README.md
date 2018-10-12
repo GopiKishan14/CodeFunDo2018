@@ -2,9 +2,10 @@
 
 ## Idea
 
-Our idea revolves around safeguarding visitors from natural disasters.
+History has repeatedly shown that the losses of the visitors to a place has been more than that of the localites of the place at a time of natural calamity. Our idea is to safeguard the visitors when and where possible with the help of the localites and to provide the localites with greater and better insight on management of the disaster by informing them about the available transport, medication and other facilities
 
 **The product will have three working phases:**
+
 **1) Pre-Disaster phase:**
 
 * We will be using the location of the user(using location api for live location) and the meterological data to provide user-specific hazard warnings. 
